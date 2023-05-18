@@ -1,9 +1,6 @@
-### 😊Oiie!! Eu sou a Mariana Figere👋
-✨*UX/UI DESIGN*✨
-<br>
-🤳*Estou sempre aberta a novas oportunidades. Sinta-se à vontade para entrar em contato comigo*✨<br>
-😘*Agradeço por visitar o meu perfil GitHub e estou ansiosa para colaborar em projetos emocionantes e inovadores*✨
-
+### 😊Oiie!! Eu sou a Mariana Figere👋 <br>✨*UX/UI DESIGN*✨
+##
+🤳*Estou sempre aberta a novas oportunidades. Sinta-se à vontade para entrar em contato comigo*<br>😘*Agradeço por visitar o meu perfil GitHub e estou ansiosa para colaborar em projetos emocionantes e inovadores*
 ##
 <div>
 <a href="https://github.com/MariiMecz">
