@@ -1,5 +1,5 @@
 ### 😊Oiie!! Eu sou a Mariana Figere👋 <br>
-✨*UX/UI Design*✨<br>🧪*Data Science*🧪<br>
+✨*UX/UI Design*✨<br>📋*Scrum Master*📋<br>
 🤳*Estou sempre aberta a novas oportunidades. Sinta-se à vontade para entrar em contato comigo* <br>😘*Agradeço por visitar o meu perfil GitHub e estou ansiosa para colaborar em projetos emocionantes e inovadores*
 <div> 
   <a href = "mailto:webtechnologyco@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
