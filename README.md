@@ -1,7 +1,13 @@
-### 😊Oiie!! Eu sou a Mariana Figere👋 <br>✨*UX/UI Design*✨<br>🧪*Data Science*🧪
-
+### 😊Oiie!! Eu sou a Mariana Figere👋 <br>
+✨*UX/UI Design*✨<br>🧪*Data Science*🧪<br>
 🤳*Estou sempre aberta a novas oportunidades. Sinta-se à vontade para entrar em contato comigo* <br>😘*Agradeço por visitar o meu perfil GitHub e estou ansiosa para colaborar em projetos emocionantes e inovadores*
+<div> 
+  <a href = "mailto:webtechnologyco@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mariana-figere-523211270/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
 ##
+
 <div>
 <a href="https://github.com/MariiMecz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariiMecz&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
@@ -26,12 +32,7 @@
   
   ##
  
-<div> 
-  <a href = "mailto:webtechnologyco@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mariana-figere-523211270/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-  
-  ##
+
 
 
 
