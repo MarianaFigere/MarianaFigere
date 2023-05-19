@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2b213a&size&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b03bbf&size&height=120&section=header"/>
 
  ### 😊 *Oiie!!Eu sou a Mariana Figere* 👋<br>
 ✨*UX/UI Design*✨<br>📈*Scrum Master*📈<br>
@@ -29,7 +29,7 @@
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2b213a&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b03bbf&height=120&section=footer"/>
 
 
 
