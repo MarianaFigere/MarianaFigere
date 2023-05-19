@@ -15,8 +15,9 @@
   
   ##
   <div>
-  <img align="center" width="41%" height="195px"src="https://github-readme-stats.vercel.app/api?username=MariiMecz&show_icons=true&theme=radical">  
-  <img align="center" width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariiMecz&layout=compact&hide_border=true&title_color=e23c81&text_color=a5f8f2&bg_color=141321" />
+ <a href="https://github.com/MariiMecz">
+ <img height="180em"src="https://github-readme-stats.vercel.app/api?username=MariiMecz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>  
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariiMecz&layout=compact&langs_count=16&theme=radical"/>
   </div>
   
   ##
@@ -45,8 +46,8 @@
 <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 
- 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b03bbf&height=120&section=footer"/>
+
 
 
 
