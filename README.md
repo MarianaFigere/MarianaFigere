@@ -10,14 +10,14 @@
   
   ##
   <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MariiMecz&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MarianaFigere&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
   
   ##
   <div>
  <a href="https://github.com/MariiMecz">
- <img height="170em"src="https://github-readme-stats.vercel.app/api?username=MariiMecz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>  
- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariiMecz&layout=compact&langs_count=16&theme=radical"/>
+ <img height="170em"src="https://github-readme-stats.vercel.app/api?username=MarianaFigere&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>  
+ <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaFigere&layout=compact&langs_count=16&theme=radical"/>
   </div>
   
   ##
