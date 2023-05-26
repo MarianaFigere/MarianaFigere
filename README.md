@@ -6,7 +6,7 @@
 
 
  
-<img width="150px" align="right"  src="https://i0.wp.com/media1.tenor.com/images/14623938aaa95cce97cc66b45ae55b51/tenor.gif?resize=270%2C270&ssl=1"/>  
+<img width="120px" align="right"  src="https://i0.wp.com/media1.tenor.com/images/14623938aaa95cce97cc66b45ae55b51/tenor.gif?resize=270%2C270&ssl=1"/>  
 
   
 
@@ -21,7 +21,8 @@
   <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MarianaFigere&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-  
+  <img width="120px" align="right"  src="https://www.8pdev.studio/upload/2022/01/wordpresscriacaodesite.gif"/> 
+ 
   ##
   <div>
  <a href="https://github.com/MariiMecz">
