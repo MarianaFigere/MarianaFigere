@@ -3,11 +3,20 @@
  ### 😊 *Oiie!!Eu sou a Mariana Figere* 👋<br>
 ✨*UX/UI Design*✨<br>📈*Scrum Master*📈<br>
 🤳*Estou sempre aberta a novas oportunidades. Sinta-se à vontade para entrar em contato comigo* <br>😘*Agradeço por visitar o meu perfil GitHub e estou ansiosa para colaborar em projetos emocionantes e inovadores*
-<div> 
+
+
+ 
+<img width="150px" align="right"  src="https://i0.wp.com/media1.tenor.com/images/14623938aaa95cce97cc66b45ae55b51/tenor.gif?resize=270%2C270&ssl=1"/>  
+
+  
+
+
   <a href = "mailto:webtechnologyco@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mariana-figere-523211270/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-  
+    
+
+
+ 
   ##
   <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MarianaFigere&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -19,6 +28,8 @@
  <img height="170em"src="https://github-readme-stats.vercel.app/api?username=MarianaFigere&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>  
  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaFigere&layout=compact&langs_count=16&theme=radical"/>
   </div>
+ 
+
   
   ##
 
@@ -47,6 +58,8 @@
 <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b03bbf&height=120&section=footer"/>
+  
+
 
 
 
